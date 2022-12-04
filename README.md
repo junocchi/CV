@@ -1,6 +1,6 @@
-## Your Name
+## Juliana Nocchi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a creative yet logically minded Full Stack Junior Developer, seeking a position to utilise my skills & abilities in a company that encourages collaboration and offers professional growth.
 
 ## Projects
 
