@@ -10,7 +10,7 @@ A few months later I decided to make a career switch to tech and I chose Makers 
 | ---------------------------- | ----------------- | ----------------- |
 | [**student-directory**](https://github.com/junocchi/student-directory)            | PreCourse, week 4 - The tutorial for the first Ruby project at Makers | Ruby |
 | [**fizzbuzz**](https://github.com/junocchi/fizzbuzz)            | PreCourse, week 4 - Collaborative work to build a FizzBuzz program | Ruby, RSpec |
-| [**mastery-quizzes**](https://github.com/junocchi/mastery-quizzes) | PreCourse, weeks 2 & 3 - Command Line Murder Mystery | Ruby, RSpec              |
+| [**mastery-quizzes**](https://github.com/junocchi/mastery-quizzes) | PreCourse, weeks 2 & 3 - Mastery curriculum quizzes | Ruby, RSpec              |
 | [**clmystery**](https://github.com/junocchi/clmystery) | PreCourse, week 1 - Command Line Murder Mystery | Command Line              |
 
 ## Work Experience
