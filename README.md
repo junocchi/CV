@@ -1,6 +1,6 @@
 ## Juliana Nocchi
 
-During my time working for a Tech company, I had the opportunity to take part in various training sessions, including Digital Commerce and Ecommerce Architecture. After that, I could understand more about how our lives, and in this case, how our shopping experience has been transformed by technology. I enjoyed the culture, the collaborative approach, and the fast-paced environment, and all of that inspired me to improve my technical skills, so I joined Codebar and started learning code. 
+During my time working for a Tech company, I had the opportunity to take part in various training sessions, including Digital Commerce and Ecommerce Architecture. After that, I could understand more about how our lives, and in this case, how our shopping experience has been transformed by technology. I enjoyed the culture, the collaborative approach, and the fast-paced environment, and all of that inspired me to improve my technical skills, so I joined Codebar and started coding. 
 
 A few months later I decided to make a career switch to tech and I chose Makers Academy because of its cutting-edge curriculum and inclusive community support. I enjoy pair programming and solving difficult challenges, and I am looking forward to starting a career as a Junior Software Developer.
 
