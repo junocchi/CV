@@ -81,5 +81,4 @@ I am used to simultaneously planning and prioritising projects across multiple a
 ## Hobbies
 
 - Attending meet-ups, especially the ones hosted by Creative Mornings and Codebar
-- Watercolour painting, including urban sketching
-- Exploring London restaurants and food markets
+- Watching sports, watercolour painting and meeting friends for coffee/art exhibitions/food markets/restaurants.
