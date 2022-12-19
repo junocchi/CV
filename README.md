@@ -42,11 +42,11 @@ _Senior HR Generalist & Immigration Adviser_
 
 ### **Problem Solving**
 
-I love to be part of new initiatives and solve difficult challenges. Starting with mapping, considering all alternatives, and identifying which option to pursue, through to sharing my findings, decisions and solutions with others (e.g. visa requests and appraisal cycles).
+I love to be part of new initiatives and solve challenges. Starting with mapping, considering all alternatives, and identifying which option to pursue, through to sharing my findings, decisions and solutions with others (e.g. visa requests and appraisal cycles).
 
 #### **Collaboration & Building relationships**
 
-In my previous roles, I have adopted a networked approach, collaborating with other teams to achieve joint goals (e.g. with HR and Procurement, to deliver a European Health & Safety plan). I have also developed and maintained strong relationships with key stakeholders (e.g. office suppliers, benefit providers). 
+In my previous roles, I have adopted a networked approach, collaborating with other teams to achieve joint goals (e.g. with HR and Procurement, to deliver the European Health & Safety plan). I have also developed and maintained strong relationships with key stakeholders (e.g. office suppliers, benefit providers). 
 
 ### **Positivity**
 I like being a go-to person and creating an inclusive and positive environment. This was highlighted by my ex-colleagues via my [LinkedIn recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
