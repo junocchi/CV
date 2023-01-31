@@ -1,17 +1,19 @@
 ## Juliana Nocchi
+I started my professional life editing audio & videos for an e-Learning company and teaching visual arts (including stop-motion animation). In 2013 I moved to London and for 7 years I worked in roles ranging from HR to People Ops.
 
-During my time working for a Tech company, I had the opportunity to take part in various training sessions, including Digital Commerce and Ecommerce Architecture. After that, I could understand more about how our lives, and in this case, how our shopping experience has been transformed by technology. I enjoyed the culture, the collaborative approach, and the fast-paced environment, and all of that inspired me to improve my technical skills, so I joined Codebar and started coding. 
+In my last position, I worked for a Tech company and during my time there I took part in many Digital Commerce and Platform training. That made me curious about the coding behind it and I started to think about improving my technical skills. In August 2022, my role ceased to exist and I was made redundant, so I saw it as an opportunity to invest some time into learning code. 
 
-A few months later I decided to make a career switch to tech and I chose Makers Academy because of its cutting-edge curriculum and inclusive community support. I enjoy pair programming and solving difficult challenges, and I am looking forward to starting a career as a Junior Software Developer.
+I joined Codebar and it lead me to Makers Academy. I am half way through the bootcamp and I cannot express how much I am enjoying it! I love meeting my peer group every morning and learning new things every day. To progress in our weekly challenges, we have a few hours of solo study in the mornings and we pair up in the afternoons. We are in contact with the Makers alumni, we have daily meditation sessions and valuable Emotional intelligence workshops with Dana, the Chief Joy Officer. We take part in weekly retro meetings, and we have the support of our coach and colleagues. Makers encourage the real Dev culture from day one and I am very grateful to be part of this community.
+
+I am very excited about starting a career as a Junior Software Developer!
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**student-directory**](https://github.com/junocchi/student-directory)            | PreCourse, week 4 - The tutorial for the first Ruby project at Makers | Ruby |
-| [**fizzbuzz**](https://github.com/junocchi/fizzbuzz)            | PreCourse, week 4 - Collaborative work to build a FizzBuzz program | Ruby, RSpec |
-| [**mastery-quizzes**](https://github.com/junocchi/mastery-quizzes) | PreCourse, weeks 2 & 3 - Mastery curriculum quizzes | Ruby, RSpec              |
-| [**clmystery**](https://github.com/junocchi/clmystery) | PreCourse, week 1 - Command Line Murder Mystery | Command Line              |
+| [**js-bowling-scorecard**](https://github.com/junocchi/W6-bowling-scorecard-javascript)            | Count and sum the scores of a bowling game for one player, including strikes and spares | JavaScript |
+| [**rb-bowling-scorecard**](https://github.com/junocchi/W6-bowling-scorecard-javascript)            | Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby |
+| [**js-web-applications**](https://github.com/junocchi/W7-JavaScript-web-applications)            | Javascript Web Frontend Applications | JavaScript, Node, DOM API |
 
 ## Work Experience
 
@@ -58,9 +60,10 @@ I am used to simultaneously planning and prioritising projects across multiple a
 ## Education
 
 #### Makers Academy, London (11/2022 - 03/2023)
-- Sofware Dev Bootcamp
-- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- Ruby, RSpec
+- Full stack junior developer training
+- Agile methodologies
+- OOD and TDD
+- JavaScript, Node.js, jQuery, Ruby, RSpec, Sinatra
 
 #### Fluminense Federal University, Rio de Janeiro (02/2012 - 02/2014)
 - Master of Education
