@@ -5,7 +5,7 @@ In my last position, I worked for a Tech company and during my time there I took
 
 I joined Codebar and it lead me to Makers Academy. I am half way through the bootcamp and I cannot express how much I am enjoying it! I love meeting my peer group every morning and learning new things every day. To progress in our weekly challenges, we have a few hours of solo study in the mornings and we pair up in the afternoons. We are in contact with the Makers alumni, we have daily meditation sessions and valuable Emotional intelligence workshops with Dana, the Chief Joy Officer. We take part in weekly retro meetings, and we have the support of our coach and colleagues. Makers encourage the real Dev culture from day one and I am very grateful to be part of this community.
 
-I am very excited about starting a career as a Junior Software Developer!
+I am very excited about starting a career as Junior Software Developer!
 
 ## Projects
 
@@ -60,10 +60,11 @@ I am used to simultaneously planning and prioritising projects across multiple a
 ## Education
 
 #### Makers Academy, London (11/2022 - 03/2023)
-- Full stack junior developer training
-- Agile methodologies
+- Agile methodologies and XP values
 - OOD and TDD
 - JavaScript, Node.js, jQuery, Ruby, RSpec, Sinatra
+- Pair programming
+- Independent learning and problem-solving
 
 #### Fluminense Federal University, Rio de Janeiro (02/2012 - 02/2014)
 - Master of Education
