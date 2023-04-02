@@ -15,6 +15,18 @@ I value continuous learning (currently working my way through C# and Phyton) and
 | [**Bowling Scorecard Program**](https://github.com/junocchi/W5-bowling-scorecard-ruby)| Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby|
 | [**Bank Account Program**](https://github.com/junocchi/bank_account_tech_test) | A bank account program that accepts deposits, withdraws and prints statements including the transactions date, type, amount and balance. | JavaScript, Jest |
 
+## ⚙️ Tech Skills
+- 🧰 Version Control: Git
+- 🔨 Tools: Visual Studio Code, Postman, TablePlus
+- 🌐 Web Dev: HTML, CSS, Tailwind CSS, 
+- ✨ UI/UX: Figma, Canva
+- 📜 JavaScript: JavaScript, React, npm, Node.js, Express, Jest
+- 💎 Ruby: Ruby, Ruby on Rails
+- 🪒 C#: C#
+- 📱 Mobile Dev: iOS, Expo Go, React Native
+- 💾 Database: PostgreSQL, MongoDB
+- 🧪 Testing: Cypress
+
 ## 👩🏻‍💻 Tech Experience
 **[Makers Academy](https://makers.tech/)** (London, UK) 11/2022 - 03/2023
 
@@ -48,33 +60,19 @@ _Senior HR Generalist & Immigration Adviser_
 - Managed all aspects of onboarding and offboarding, and the workforce management system
 - Awarded Best Employee (Jun-Dec 2018)
 
-## ⚙️ Tech Skills
-
-- 🧰 Version Control: Git
-- 🔨 Tools: Visual Studio Code, Postman, TablePlus
-- 🌐 Web Dev: HTML, CSS, Tailwind CSS, 
-- ✨ UI/UX: Figma, Canva
-- 📜 JavaScript: JavaScript, React, npm, Node.js, Express, Jest
-- 💎 Ruby: Ruby, Ruby on Rails
-- 📱 Mobile Dev: iOS, Expo Go
-- 💾 Database: PostgreSQL, mongoDB
-- 🧪 Testing: Cypress
-
-
 ## 🧸 Soft Skills
-
-### **Problem Solving**
+#### **Problem Solving**
 
 I love to be part of new initiatives and solve challenges. Starting with mapping, considering all alternatives, and identifying which option to pursue, through to sharing my findings, decisions and solutions with others (e.g. visa requests and appraisal cycles).
 
-### **Collaboration & Building relationships**
+#### **Collaboration & Building relationships**
 
 In my previous roles, I have adopted a networked approach, collaborating with other teams to achieve joint goals (e.g. with HR and Procurement, to deliver the European Health & Safety plan). I have also developed and maintained strong relationships with key stakeholders (e.g. office suppliers, benefit providers). 
 
-### **Positivity**
+#### **Positivity**
 I like being a go-to person and creating an inclusive and positive environment. This was highlighted by my ex-colleagues via my [LinkedIn recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
 
-### **Organisational skills**
+#### **Organisational skills**
 
 I am used to simultaneously planning and prioritising projects across multiple areas (e.g. finance, IT, hiring, procurement, HR core, facilities). I also have experience of organising and structuring team resources and processes (e.g. network drive, employee files).
 
@@ -94,6 +92,7 @@ _Post Graduation in Animation_
 #### [Federal University of Rio de Janeiro](https://ufrj.br/en/), Rio de Janeiro (03/2002 - 12/2005)
 _BFA - Bachelor of Fine Arts, Design and Visual Communications_
 - Distinction, 79%
+- Teaching assistant of the Textile Workshop, from March to December 2005
 
 
 ## 🎉 Additional Information
