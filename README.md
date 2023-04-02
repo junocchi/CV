@@ -18,7 +18,7 @@ I value continuous learning (currently working my way through C# and Phyton) and
 ## ⚙️ Tech Skills
 - 🧰 Version Control: Git
 - 🔨 Tools: Visual Studio Code, Postman, TablePlus
-- 🌐 Web Dev: HTML, CSS, Tailwind CSS, 
+- 🌐 Web Dev: HTML, CSS, Tailwind CSS
 - ✨ UI/UX: Figma, Canva
 - 📜 JavaScript: JavaScript, React, npm, Node.js, Express, Jest
 - 💎 Ruby: Ruby, Ruby on Rails
