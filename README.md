@@ -1,88 +1,103 @@
-## Juliana Nocchi
-I started my professional life editing audio & videos for an e-Learning company and teaching visual arts (including stop-motion animation). In 2013 I moved to London and for 7 years I worked in roles ranging from HR to People Ops.
+## CV - Juliana Nocchi
 
-In my last position, I worked for a Tech company and during my time there I took part in many Digital Commerce and Platform training. That made me curious about the coding behind it and I started to think about improving my technical skills. In August 2022, my role ceased to exist and I was made redundant, so I saw it as an opportunity to invest some time into learning code. 
+I am a career-changer software engineer who enjoys working on projects from start to finish. During my 16-week bootcamp I worked with front end languages and frameworks such as HTML, CSS, JavaScript, React, and React Native to create stunning user interfaces; back end technologies and frameworks, including NodeJS and ExpressJS; database management systems, such as PostgreSQL and MongoDB; and version control to collaborate effectively with other developers on large-scale projects.
 
-I joined Codebar and it lead me to Makers Academy. I am half way through the bootcamp and I cannot express how much I am enjoying it! I love meeting my peer group every morning and learning new things every day. To progress in our weekly challenges, we have a few hours of solo study in the mornings and we pair up in the afternoons. We are in contact with the Makers alumni, we have daily meditation sessions and valuable Emotional intelligence workshops with Dana, the Chief Joy Officer. We take part in weekly retro meetings, and we have the support of our coach and colleagues. Makers encourage the real Dev culture from day one and I am very grateful to be part of this community.
+I value continuous learning (currently working my way through C# and Phyton) and I am passionate about building strong relationships. I believe that collaboration, communication, and respect are essential for any successful project. For highlights of my professional skills from peers and managers, please have a look at my [LinkedIn Recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
 
-I am very excited about starting a career as Junior Software Developer!
 
-## Projects
+## 💡 Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**js-bowling-scorecard**](https://github.com/junocchi/W6-bowling-scorecard-javascript)            | Count and sum the scores of a bowling game for one player, including strikes and spares | JavaScript |
-| [**rb-bowling-scorecard**](https://github.com/junocchi/W6-bowling-scorecard-javascript)            | Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby |
-| [**js-web-applications**](https://github.com/junocchi/W7-JavaScript-web-applications)            | Javascript Web Frontend Applications | JavaScript, Node, DOM API |
+| [**Solved Treasure Hunting App**](https://github.com/orhankhanbayov/Solved-Arrogate) | This mobile app consists of a live-action treasure hunting with clues to help the user to search for five secret London landmarks. I was involved in the ideation, designing the user Interface and all images, prototyping the screens, implementing functionalities on the front end, data manipulation, integration testing and styling. | We utilised Node.js, Express and MongoDB Atlas to build the back end, React Native on the front end, and Jest for testing. Made API calls to 2 different services and used image recognition to ensure they arrived at the correct locations|
+| [**Acebook-Air Website**](https://github.com/tmccoy99/acebook-air)| This social media platform allows users to create profiles with a picture, share and like posts, and update their personal details. I was involved in end-to-end and component testing (Cypress), developing the home page and navbar, adding routes and styling various pages.| MERN - MongoDB, Express, React and Node|
+| [**Pensano Showcase Website**](https://pensano.dev/)| This website was designed to showcase my peer group work both collectively, as Pensano Devs, and our individual projects| React, CSS|
+| [**Bowling Scorecard Program**](https://github.com/junocchi/W5-bowling-scorecard-ruby)| Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby|
+| [**Bank Account Program**](https://github.com/junocchi/bank_account_tech_test) | A bank account program that accepts deposits, withdraws and prints statements including the transactions date, type, amount and balance. | JavaScript, Jest |
 
-## Work Experience
+## 👩🏻‍💻 Tech Experience
+**[Makers Academy](https://makers.tech/)** (London, UK) 11/2022 - 03/2023
 
-**VTEX Digital Commerce Platform** (London, UK) 06/2021 - 08/2022
+_Career Changer Student_
+
+- Awarded a full scholarship with Codebar & Makers Represent Scholarship Programme
+- Designed and built 17 web applications using Ruby and Javascript, with an emphasis on self-led learning, which allowed me to become adaptable to new technologies
+- Collaborated in Agile teams with a focus on XP values, pair programming, Object Oriented Development (OOD), Test-driven Development (TDD) and Git workflow, to ensure our code was robust, maintainable, and efficient
+- Developed, as part of a group of 5, a live-action treasure-hunting mobile app (called Solved) with clues to help the user to search for five secret London landmarks. Utilised Node.js, Express and MongoDB Atlas to build the back end, React Native on the front end, and Jest for testing. Made API calls to 2 different services and used image recognition to make sure they arrived at the correct locations
+- Created a social media platform (Acebook-Air), a host/guest website (CloudBnB), and a website to showcase projects [Pensano](pensano.dev). Further details on these projects can be found below
+
+
+## 👩🏻‍💼 Work Experience
+**[VTEX Ecommerce Platform](https://vtex.com/gb-en/)** (London, UK) 06/2021 - 08/2022
 
 _EMEA Chief of Staff & Office Manager_
 
-- Executed the annual performance cycle rollout 
-- Point of contact for all queries from the EMEA ~90 employees
-- Supported the hiring team (headhunting, selecting candidates and interviewing)
-- Mentored new Office Managers and Chief of Staff
-- Contacted speakers and organised weekly training for the Sales Enablement team
-- Initiated the purchasing flow (office supplies, equipment, food, etc.), negotiated contracts, communicated with suppliers, tracked expenses, and managed the region’s budget, working closely with the Procurement, Legal, Finance and Controllership teams
+- Managed the HR platform (EMEA ~90 employees), initiated processes/changes, reviewed/approved requests, and coordinated day-to-day functions from onboarding to offboarding
+- Managed activities in 6 European offices (London, Paris, Milan, Bucharest, Barcelona and Lisbon). Initiating the purchasing flow (office supplies, equipment, food, etc.), negotiating contracts, communicating with suppliers, tracking expenses, and managing the region’s budget; working closely with the Procurement, Legal, Finance and Controllership teams
+- Mentored new Office Manager and Chief of Staff globally
+- Contacted speakers and hosted weekly training for the Sales Enablement team, including Sales & Merchandising, Finance & Accounting, Supply Chain & Operations, Technology & Data, Digital Marketing
 
-**Brazilian Naval Commission in Europe - Embassy of Brazil** (London - UK) 02/2015 - 05/2021
+
+**[Brazilian Naval Commission in Europe](http://www.bnce.org.uk/)** (London - UK) 02/2015 - 05/2021
 
 _Senior HR Generalist & Immigration Adviser_
 
-- Primary contact within BNCE for all UK visa enquiries from employees, supporting them through their application and relocation process (~500 processes, including family members)
-- Responsible for staying up to date with all UK immigration legislation
-- Managed Actin Time (Workforce Management System)
-- Maintained employee files and prepared HR and Visa letters 
+- Was the primary contact for all UK visa enquiries (~300 processes, including family members)
 - Developed & implemented strategies, policies and other initiative programmes
-- Managed all aspects of Onboarding and Offboarding, including presenting 2 hour sessions for Diplomatic Corps
-- Award: Best Employee (Jun-Dec 2018)
+- Prepared and presented semiannual onboarding and offboarding sessions to ~20 Diplomatic staff
+- Managed all aspects of onboarding and offboarding, and the workforce management system
+- Awarded Best Employee (Jun-Dec 2018)
 
-## Skills
+## ⚙️ Tech Skills
+
+- 🧰 Version Control: Git
+- 🔨 Tools: Visual Studio Code, Postman, TablePlus
+- 🌐 Web Dev: HTML, CSS, Tailwind CSS, 
+- ✨ UI/UX: Figma, Canva
+- 📜 JavaScript: JavaScript, React, npm, Node.js, Express, Jest
+- 💎 Ruby: Ruby, Ruby on Rails
+- 📱 Mobile Dev: iOS, Expo Go
+- 💾 Database: PostgreSQL, mongoDB
+- 🧪 Testing: Cypress
+
+
+## 🧸 Soft Skills
 
 ### **Problem Solving**
 
 I love to be part of new initiatives and solve challenges. Starting with mapping, considering all alternatives, and identifying which option to pursue, through to sharing my findings, decisions and solutions with others (e.g. visa requests and appraisal cycles).
 
-#### **Collaboration & Building relationships**
+### **Collaboration & Building relationships**
 
 In my previous roles, I have adopted a networked approach, collaborating with other teams to achieve joint goals (e.g. with HR and Procurement, to deliver the European Health & Safety plan). I have also developed and maintained strong relationships with key stakeholders (e.g. office suppliers, benefit providers). 
 
 ### **Positivity**
 I like being a go-to person and creating an inclusive and positive environment. This was highlighted by my ex-colleagues via my [LinkedIn recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
 
-#### **Organisational skills**
+### **Organisational skills**
 
 I am used to simultaneously planning and prioritising projects across multiple areas (e.g. finance, IT, hiring, procurement, HR core, facilities). I also have experience of organising and structuring team resources and processes (e.g. network drive, employee files).
 
-## Education
-
-#### Makers Academy, London (11/2022 - 03/2023)
-- Agile methodologies and XP values
-- OOD and TDD
-- JavaScript, Node.js, jQuery, Ruby, RSpec, Sinatra
-- Pair programming
-- Independent learning and problem-solving
+## 🎓 Education
 
 #### Fluminense Federal University, Rio de Janeiro (02/2012 - 02/2014)
-- Master of Education
+_MEd - Masters in Education_
 - Distinction, 93%
 - Activities: Paper presented at the III Congreso Internacional -X Simposio- de América Latina y el Caribe. 24-26/10/2012, UBA Ciencias Económicas. Buenos Aires, Argentina. Paper presented at the International Conference on the Arts and Humanities. 27-30/06/2013, Perugia, Italy. Mediator of the “Digital Media and The Environment” session.
 
-#### Pontifical Catholic University, Rio de Janeiro (02/2006 - 12/2006)
-- Post Graduation in Animation
+#### [Pontifical Catholic University](http://www.puc-rio.br/english/), Rio de Janeiro (02/2006 - 12/2006)
+_Post Graduation in Animation_
 - Distinction,  83%
 - 3DS Max, Adobe Flash, Adobe After Effects
 - Produced a short [stop-motion animation video](https://youtu.be/KKybNAe3G2w) with the support of the Brazilian Government and in cooperation with the Film & Video Workshop
 
-#### Federal University of Rio de Janeiro, Rio de Janeiro (03/2002 - 12/2005)
-- Bachelor of Arts
+#### [Federal University of Rio de Janeiro](https://ufrj.br/en/), Rio de Janeiro (03/2002 - 12/2005)
+_BFA - Bachelor of Fine Arts, Design and Visual Communications_
 - Distinction, 79%
 
 
-## Hobbies
+## 🎉 Additional Information
 
-- Attending meet-ups, especially the ones hosted by Creative Mornings and Codebar
-- Watching sports, watercolour painting and meeting friends for coffee/art exhibitions/food markets/restaurants.
+- Regular attendee of [Creative Mornings](https://creativemornings.com/), the world’s largest face-to-face creative community
+- Volunteer at [Codebar](https://codebar.io/), programming workshops for underrepresented groups in tech
+- Other interests: Travelling, Functional Nutrition, Playing Volleyball & Watercolour Painting  
