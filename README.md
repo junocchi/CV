@@ -36,7 +36,7 @@ _Career Changer Student_
 - Designed and built 17 web applications using Ruby and Javascript, with an emphasis on self-led learning, which allowed me to become adaptable to new technologies
 - Collaborated in Agile teams with a focus on XP values, pair programming, Object Oriented Development (OOD), Test-driven Development (TDD) and Git workflow, to ensure our code was robust, maintainable, and efficient
 - Developed, as part of a group of 5, a live-action treasure-hunting mobile app (called Solved) with clues to help the user to search for five secret London landmarks. Utilised Node.js, Express and MongoDB Atlas to build the back end, React Native on the front end, and Jest for testing. Made API calls to 2 different services and used image recognition to make sure they arrived at the correct locations
-- Created a social media platform (Acebook-Air), a host/guest website (CloudBnB), and a website to showcase projects [Pensano](pensano.dev). Further details on these projects can be found below
+- Created a social media platform ([Acebook-Air](https://github.com/tmccoy99/acebook-air)), a host/guest website ([CloudBnB](https://github.com/junocchi/W5-CloudBnB-Eng-Proj-I)), and a website to showcase projects [Pensano](pensano.dev)
 
 
 ## 👩🏻‍💼 Work Experience
@@ -68,8 +68,6 @@ I love to be part of new initiatives and solve challenges. Starting with mapping
 #### **Collaboration & Building relationships**
 
 In my previous roles, I have adopted a networked approach, collaborating with other teams to achieve joint goals (e.g. with HR and Procurement, to deliver the European Health & Safety plan). I have also developed and maintained strong relationships with key stakeholders (e.g. office suppliers, benefit providers). 
-
-#### **Positivity**
 I like being a go-to person and creating an inclusive and positive environment. This was highlighted by my ex-colleagues via my [LinkedIn recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
 
 #### **Organisational skills**
@@ -78,7 +76,7 @@ I am used to simultaneously planning and prioritising projects across multiple a
 
 ## 🎓 Education
 
-#### Fluminense Federal University, Rio de Janeiro (02/2012 - 02/2014)
+#### [Fluminense Federal University](https://international.uff.br/), Rio de Janeiro (02/2012 - 02/2014)
 _MEd - Masters in Education_
 - Distinction, 93%
 - Activities: Paper presented at the III Congreso Internacional -X Simposio- de América Latina y el Caribe. 24-26/10/2012, UBA Ciencias Económicas. Buenos Aires, Argentina. Paper presented at the International Conference on the Arts and Humanities. 27-30/06/2013, Perugia, Italy. Mediator of the “Digital Media and The Environment” session.
