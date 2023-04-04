@@ -54,7 +54,7 @@ I like being a go-to person and creating an inclusive and positive environment. 
 
 ### **Organisational skills**
 
-As Chief of Staff, I have become adept at multitasking and prioritizing projects across various areas, including Finance, IT, Hiring, Procurement, HR, and Facilities. My experience includes organizing and streamlining team resources and processes, such as maintaining a network drive and employee files. As a member of a tech team, I like using project management software and team charters to establish priorities, set deadlines, and ensure that everyone on the team is on the same page and has a clear understanding of their responsibilities. Also, during a website project, I provided my colleagues with a prototype of all pages, complete with color schemes, font sizes and position of elements, to ensure consistency across different sections of the site.
+As Chief of Staff, I have become adept at multitasking and prioritizing projects across various areas, including Finance, IT, Hiring, Procurement, HR, and Facilities. My experience includes organising and streamlining team resources and processes, such as maintaining a network drive and employee files. As a member of a tech team, I like using project management software and team charters to establish priorities, set deadlines, and ensure that everyone on the team is on the same page and has a clear understanding of their responsibilities. Also, during a website project, I provided my colleagues with a prototype of all pages, complete with color schemes, font sizes and position of elements, to ensure consistency across different sections of the site.
 
 ## 🎓 Education
 
