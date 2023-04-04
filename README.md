@@ -84,7 +84,7 @@ As Chief of Staff, I have become adept at multitasking and prioritizing projects
 - Teaching assistant of the Textile Workshop, from March to December 2005
 
 
-## 🎉 Additional Information
+## 🎉 Interests
 
 - Regular attendee of [Creative Mornings](https://creativemornings.com/), the world’s largest face-to-face creative community
 - Volunteer at [Codebar](https://codebar.io/), programming workshops for underrepresented groups in tech
