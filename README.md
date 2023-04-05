@@ -12,7 +12,7 @@ I am passionate about building strong relationships and believe that collaborati
 | [**Acebook-Air Website**](https://github.com/junocchi/Acebook-Air)| This social media platform allows users to create profiles with a picture, share and like posts, and update their personal details. I was involved in end-to-end and component testing (Cypress), developing the home page and navbar, adding routes and styling various pages.| MERN - MongoDB, Express, React and Node|
 | [**Pensano Showcase Website**](https://pensano.dev/)| This website was designed to showcase my peer group work both collectively, as Pensano Devs, and our individual projects. [GitHub link](https://github.com/junocchi/Pensano-Devs)| React, CSS, HTML|
 | [**Makers BnB**](https://github.com/junocchi/Makers-BnB)| As an Airbnb clone, with Cloud BnB you can register, login, list your properties for rent, browse the listed properties, view the availability of properties, and submit booking requests.| Ruby, Active Record, Sinatra and RSpec| 
-| [**Bowling Scorecard Program**](https://github.com/junocchi/W5-bowling-scorecard-ruby)| Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby|
+| [**Bowling Scorecard Program**](https://github.com/junocchi/W5-bowling-scorecard-ruby)| Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby, RSpec|
 | [**Bank Account Program**](https://github.com/junocchi/bank_account_tech_test) | A bank account program that accepts deposits, withdraws and prints statements including the transactions date, type, amount and balance. | Ruby, RSpec |
 
 ## ⚙️ Tech Skills
