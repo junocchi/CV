@@ -82,9 +82,11 @@ As Chief of Staff, I have become adept at multitasking and prioritizing projects
 - Distinction, 79%
 - Teaching assistant of the Textile Workshop, from March to December 2005
 
+## 🏆 Tech Achievements
+- Part of the winning team of the Cisco prize "Empowering Accessibility & Inclusion Through Innovation”, at the [Athena Hackathon 2023](https://www.showcode.io/athena)
+- Co-Founder of www.pensano.dev, a platform that empowers graduates to develop their skills by working collaboratively
 
-## 🎉 Interests
-
+## 🎉 Quick Facts
 - Regular attendee of [Creative Mornings](https://creativemornings.com/), the world’s largest face-to-face creative community
 - Volunteer at [Codebar](https://codebar.io/), programming workshops for underrepresented groups in tech
 - I am interested in Art exhibitions and watercolour painting
