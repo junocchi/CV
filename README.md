@@ -1,6 +1,6 @@
 ## CV - Juliana Nocchi
 
-I am a curious and enthusiastic full-stack software engineer with a background in People Ops. I love helping people from underrepresented groups embark on their tech journey through Codebar, and I'm equally passionate about fostering strong relationships. I believe that collaboration, communication, and respect form the bedrock of any successful project. I am a Makers Alumni and proud Co-Founder of [Pensano Developers](https://pensano.dev/), a platform that empowers graduates to develop their tech skills by working collaboratively. </br>
+I am a curious and enthusiastic full-stack software engineer with a background in People Ops. My career goals are making significant contributions to the organisation I work for, continuously learning to support my professional growth and helping people from underrepresented groups start their tech journey. I am a Makers Alumni and proud Co-Founder of [Pensano Developers](https://pensano.dev/), a platform that helps graduates to improve their tech skills by working collaboratively on meaningful projects. </br>
 
 For highlights of my professional skills from peers and managers, please have a look at my [LinkedIn Recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
 
