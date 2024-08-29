@@ -2,14 +2,14 @@
 
 I am a curious and enthusiastic full-stack software engineer with a background in People Ops. My career goals are making significant contributions to the organisation I work for, continuously learning to support my professional growth and helping people from underrepresented groups start their tech journey. I am a Makers Alumni and proud Co-Founder of [Pensano Developers](https://pensano.dev/), a platform that helps graduates to improve their tech skills by working collaboratively on meaningful projects. </br>
 
-For highlights of my professional skills from peers and managers, please have a look at my [LinkedIn Recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
+For highlights of my professional skills from peers and managers, please have a look at my [LinkedIn Recommendations](https://www.linkedin.com/in/juliana-nocchi/details/recommendations/?detailScreenTabIndex=0).
 
 
 ## 💡 Projects 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Prosper Lend web app**](https://github.com/junocchi/prosper-lend-spring-boot-jpa) |Final project at Wiley Edge trainee program using Spring Boot JPA. Prosper Lend is a Business Loan Provider that offers exclusive interest rates discounts for companies committed to positively impacting the world. I was involved in both back and front-end, including creating the MySQL database, ER diagrams, planning (wireframes and prototyping), DTO/DAO/Service and Controllers (static pages, and avatar picture functionality), styling and mobile responsive design (CSS and HTML)| Spring Boot JPA, HTML, CSS, MySQL Workbench, Eclipse, JUnit|
+| [**Prosper Lend web app**](https://github.com/junocchi/prosper-lend-spring-boot-jpa) |Final project at Wiley Edge trainee program using Spring Boot JPA. Prosper Lend is a Business Loan Provider that offers exclusive interest rate discounts for companies committed to positively impacting the world. I was involved in both back and front-end, including creating the MySQL database, ER diagrams, planning (wireframes and prototyping), DTO/DAO/Service and Controllers (static pages, and avatar picture functionality), styling and mobile responsive design (CSS and HTML)| Spring Boot JPA, HTML, CSS, MySQL Workbench, Eclipse, JUnit|
 | [**Aura mobile app**](https://app.showcode.io/projects/35f1e6ec-372f-4757-9d52-972cdcfe10f0) |This mobile app was the winner of the Cisco prize 🏆 "Empowering Accessibility & Inclusion Through Innovation” and of the Nationwide prize 🏆 “Highest Potential Impact” at the Athena Hackathon 2023. Aura supports social inclusion by helping users find venues that cater to their specific needs, whether related to physical accessibility, neurological considerations, or creating the right ambience. | Under development with Node.js, Express, MongoDB Atlas, React Native, Expo Go and Jest.|
 | [**Superhero sightings web app**](https://github.com/junocchi/superhero-spring-boot-jdbc) | This web application was developed as a group project during the Wiley Edge trainee program in Java. The four of us were involved in all layers and I was responsible for the Superheroes' back and front end (including controllers, services, dao, dto, testing, styling, etc)| Spring Boot JDBC, HTML, CSS, MySQL Workbench, Eclipse, JUnit|
 | [**Solved - Treasure Hunting mobile app**](https://github.com/junocchi/Solved-App) | This mobile app consists of a live-action treasure hunting with clues to help the user to search for five secret London landmarks. I was involved in the ideation, UI, prototyping, implementing functionalities on the front end, data manipulation (calls from 2 APIs), integration testing and styling. | Node.js, Express, MongoDB Atlas, React Native, Expo Go and Jest.|
@@ -17,9 +17,9 @@ For highlights of my professional skills from peers and managers, please have a 
 | [**MySQL Practice**](https://github.com/junocchi/SQL-practice) | Projects and tech tests while learning SQL, at Wiley Edge. | MySQL, MySQL Workbench, VS Code.|
 | [**Acebook-Air web app**](https://github.com/junocchi/Acebook-Air)| This social media platform allows users to create profiles with a picture, share and like posts, and update their personal details. I was involved in end-to-end and component testing (Cypress), developing the home page and navbar, adding routes and styling various pages.| MERN - MongoDB, Express, React and Node|
 | [**Pensano Developers website**](https://pensano.dev/)| A platform that empowers graduates to develop their tech skills by working collaboratively. I was involved in the ideation, UI, prototyping, creating components, implementing functionalities, home page responsiveness and styling. [GitHub link](https://github.com/Pensano-dev/website)| React, CSS, HTML|
-| [**Makers BnB web app**](https://github.com/junocchi/Makers-BnB)| As an Airbnb clone, with Cloud BnB you can register, login, list your properties for rent, browse the listed properties, view the availability of properties, and submit booking requests.| Ruby, Active Record, Sinatra and RSpec| 
+| [**Makers BnB web app**](https://github.com/junocchi/Makers-BnB)| As an Airbnb clone, with Cloud BnB you can register, log in, list your properties for rent, browse the listed properties, view the availability of properties, and submit booking requests.| Ruby, Active Record, Sinatra and RSpec| 
 | [**Bowling Scorecard app**](https://github.com/junocchi/W5-bowling-scorecard-ruby)| Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby, RSpec|
-| [**Bank Account app**](https://github.com/junocchi/bank_account_tech_test) | A bank account program that accepts deposits, withdraws and prints statements including the transactions date, type, amount and balance. | Ruby, RSpec |
+| [**Bank Account app**](https://github.com/junocchi/bank_account_tech_test) | A bank account program that accepts deposits, withdraws and prints statements including the transaction date, type, amount and balance. | Ruby, RSpec |
 
 ## ⚙️ Tech Skills
 - OOP, TDD, Agile and Pair Programming
@@ -27,11 +27,17 @@ For highlights of my professional skills from peers and managers, please have a 
 - Have been exposed to C#, Cypress, Expo Go, ExpressJS, Figma, MongoDB, NodeJS, and React Native
 
 ## 👩🏻‍💼 Work Experience
+#### Junior Full-Stack Software Developer - One-year contract (Oct 2023 - October 2024)
+**[Spendesk](https://www.spendesk.com/en/)** - Spend Management Software, London - UK 
+• Worked on the HR Integrations project (Ecosystem Integrations Squad), which automates onboarding and offboarding, pulling the data from 40+ HR tools into Spendesk so that the Finance team doesn’t need to add, edit, or remove users manually https://www.spendesk.com/en/blog/hr-integration/  
+• Was part of the DEIA taskforce
+• Tech stack: TypeScript, JavaScript, React, CSS3, GitHub, HTML5, Jest, MySQL, Docker, PostgreSQL, TablePlus, DataDog, and Forest
+
 #### Full-Stack Software Engineer Trainee
 **[Wiley Edge](https://www.wiley.com/edge/)**, London - UK (04-07/2023)
 - Selected among 500 candidates to join a group of 20 women in this full-stack trainee program which aims to increase the representation of women in tech
 - 12-week full-time instructor-led Web Development Training with Financial Foundations, providing an insight into the finance industry and the various business lines that operate within a bank 
-- Built applications on a daily bases (on my [Java practice repository](https://github.com/junocchi/Java-practice) you will find projects like a School Database, a DVD Library, a Flooring Ordering Program, a Vending Machine and a One-to-many association between Person & Vehicle, among others; plus the [**Superhero sightings web app**](https://github.com/junocchi/superhero-spring-boot-jdbc) and [**Prosper Lend web app**](https://github.com/junocchi/prosper-lend-spring-boot-jpa).
+- Built applications on a daily basis (on my [Java practice repository](https://github.com/junocchi/Java-practice) you will find projects like a School Database, a DVD Library, a Flooring Ordering Program, a Vending Machine and a One-to-many association between Person & Vehicle, among others; plus the [**Superhero sightings web app**](https://github.com/junocchi/superhero-spring-boot-jdbc) and [**Prosper Lend web app**](https://github.com/junocchi/prosper-lend-spring-boot-jpa).
 
 #### EMEA Growth Chief of Staff & Office Manager
 **[VTEX Ecommerce Platform](https://vtex.com/gb-en/)**, London - UK (06/2021-08/2022)
@@ -49,7 +55,7 @@ For highlights of my professional skills from peers and managers, please have a 
 
 ## 🧸 Soft Skills
 ### **Problem Solving**
-As someone who enjoys taking on new challenges and being part of new initiatives, I am proud to say that my latest adventure was to take part in a 24h hackathon. We formed the group on the day of the event, came up with an idea and started breaking our MVP down into smaller, more manageable parts so that everyone was aware of what they should do. We had a great time, and our project won two prizes. On another occasion, I realised our website's home page needed a 'Mobile first' approach, so I paired with a colleague to discuss our options and implement the changes. I learned about the W3C Web Accessibility Initiative (WAI), and since then, I have become an advocate for it, creating awareness and sharing WAI resources with the teams I work with.
+As someone who enjoys taking on new challenges and being part of new initiatives, I am proud to say that my latest adventure was to take part in a 24-hour hackathon. We formed the group on the day of the event, came up with an idea and started breaking our MVP down into smaller, more manageable parts so that everyone was aware of what they should do. We had a great time, and our project won two prizes. On another occasion, I realised our website's home page needed a 'Mobile first' approach, so I paired with a colleague to discuss our options and implement the changes. I learned about the W3C Web Accessibility Initiative (WAI), and since then, I have become an advocate for it, creating awareness and sharing WAI resources with the teams I work with.
 
 ### **Collaboration & Building relationships**
 In my previous roles, I have adopted a networked approach, collaborating with other teams to achieve joint goals (e.g. with Procurement to negotiate better prices) and maintaining strong relationships with key stakeholders (e.g. office suppliers and benefit providers). During my Software Engineering training, I have adapted to different team dynamics, supported those who were struggling so they would not fall behind (e.g.project setup), and learned CSS on the go to help the team complete the project successfully when we found ourselves in a group without previous experience in this language. After the end of the course, my peer group and I decided to continue meeting and working together on projects, so we developed [Pensano Devs](https://pensano.dev/) which now has 10+ volunteer developers and designers working on meaningful projects while building their tech portfolios. I like being a go-to person and fostering an inclusive and positive environment. This was highlighted by my ex-colleagues via my [LinkedIn recommendations](https://www.linkedin.com/in/juliana-nocchi-b4a882222/details/recommendations/?detailScreenTabIndex=0).
@@ -61,7 +67,7 @@ As EMEA Growth Chief of Staff, I have become adept at multitasking and prioritis
 
 #### Full-Stack Software Development Bootcamp 
 **[Makers Academy](https://makers.tech/)**, London - UK (11/2022-03/2023)
-- Awarded a full scholarship with Codebar & Makers Represent Scholarship Programme
+- Awarded a full scholarship with the Codebar & Makers Represent Scholarship Programme
 - Self-led learning 16-week full-time training
 - Designed and built 17 programs working with minimum prior knowledge
 - Collaborated in Agile teams with a focus on XP values and pair programming
@@ -87,4 +93,4 @@ As EMEA Growth Chief of Staff, I have become adept at multitasking and prioritis
 ## 🎉 Quick Facts
 - Volunteer coach and organiser at [Codebar](https://codebar.io/), a charity that provides programming workshops for underrepresented groups in tech
 - I am interested in Art exhibitions and watercolour painting
-- I play beach volleyball & dodgeball (🥇 first place mixed league Spring 2023)
+- I play beach volleyball and dodgeball (🥇 first place mixed league Spring 2023)
