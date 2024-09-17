@@ -9,29 +9,23 @@ For highlights of my professional skills from peers and managers, please have a 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Prosper Lend web app**](https://github.com/junocchi/prosper-lend-spring-boot-jpa) |Final project at Wiley Edge trainee program using Spring Boot JPA. Prosper Lend is a Business Loan Provider that offers exclusive interest rate discounts for companies committed to positively impacting the world. I was involved in both back and front-end, including creating the MySQL database, ER diagrams, planning (wireframes and prototyping), DTO/DAO/Service and Controllers (static pages, and avatar picture functionality), styling and mobile responsive design (CSS and HTML)| Spring Boot JPA, HTML, CSS, MySQL Workbench, Eclipse, JUnit|
+| [**Spendesk - HR Integrations**](https://www.spendesk.com/en/blog/hr-integration/)| As part of the Ecosystem Integrations and Control Management Squads, I worked on the HR Integrations Project, automating onboarding and offboarding, pulling the data from 40+ HR tools into Spendesk so that the Finance team doesn’t need to add, edit, or remove users manually. |  Node.js, TS, JS, React, Tailwind, GitHub, Jest, PostgreSQL, and Prisma (database library). |
+| [**Pensano Developers website**](https://pensano.dev/)| A platform that empowers graduates to develop their tech skills by working collaboratively. I was involved in the ideation, UI, prototyping, creating components, implementing functionalities, home page responsiveness and styling. [GitHub link](https://github.com/Pensano-dev/website)| React, CSS, HTML, and JS. |
+| [**Solved - Treasure Hunting mobile app**](https://github.com/junocchi/Solved-App) | This mobile app consists of a live-action treasure hunting with clues to help users search for five secret London landmarks. I was involved in the ideation, UI, prototyping, implementing functionalities on the front end, data manipulation (calls from 2 APIs), integration testing and styling. | Node.js, Express, MongoDB Atlas, React Native, Expo Go and Jest.|
+| [**Prosper Lend web app**](https://github.com/junocchi/prosper-lend-spring-boot-jpa) |Final project at Wiley Edge trainee program using Spring Boot JPA. Prosper Lend is a Business Loan Provider that offers exclusive interest rate discounts for companies committed to positively impacting the world. I was involved in both back and front-end, including creating the MySQL database, ER diagrams, planning (wireframes and prototyping), DTO/DAO/Service and Controllers (static pages, and avatar picture functionality), styling and mobile responsive design (CSS and HTML)| Spring Boot JPA, HTML, CSS, MySQL Workbench, Eclipse, and JUnit.|
 | [**Aura mobile app**](https://app.showcode.io/projects/35f1e6ec-372f-4757-9d52-972cdcfe10f0) |This mobile app was the winner of the Cisco prize 🏆 "Empowering Accessibility & Inclusion Through Innovation” and of the Nationwide prize 🏆 “Highest Potential Impact” at the Athena Hackathon 2023. Aura supports social inclusion by helping users find venues that cater to their specific needs, whether related to physical accessibility, neurological considerations, or creating the right ambience. | Under development with Node.js, Express, MongoDB Atlas, React Native, Expo Go and Jest.|
-| [**Superhero sightings web app**](https://github.com/junocchi/superhero-spring-boot-jdbc) | This web application was developed as a group project during the Wiley Edge trainee program in Java. The four of us were involved in all layers and I was responsible for the Superheroes' back and front end (including controllers, services, dao, dto, testing, styling, etc)| Spring Boot JDBC, HTML, CSS, MySQL Workbench, Eclipse, JUnit|
-| [**Solved - Treasure Hunting mobile app**](https://github.com/junocchi/Solved-App) | This mobile app consists of a live-action treasure hunting with clues to help the user to search for five secret London landmarks. I was involved in the ideation, UI, prototyping, implementing functionalities on the front end, data manipulation (calls from 2 APIs), integration testing and styling. | Node.js, Express, MongoDB Atlas, React Native, Expo Go and Jest.|
-| [**Java Practice**](https://github.com/junocchi/Java-practice) | Exercises and tech tests while learning Java for Web Apps, at Wiley Edge. | Java, JUnit, jQuery with Ajax, and Spring Boot.|
-| [**MySQL Practice**](https://github.com/junocchi/SQL-practice) | Projects and tech tests while learning SQL, at Wiley Edge. | MySQL, MySQL Workbench, VS Code.|
-| [**Acebook-Air web app**](https://github.com/junocchi/Acebook-Air)| This social media platform allows users to create profiles with a picture, share and like posts, and update their personal details. I was involved in end-to-end and component testing (Cypress), developing the home page and navbar, adding routes and styling various pages.| MERN - MongoDB, Express, React and Node|
-| [**Pensano Developers website**](https://pensano.dev/)| A platform that empowers graduates to develop their tech skills by working collaboratively. I was involved in the ideation, UI, prototyping, creating components, implementing functionalities, home page responsiveness and styling. [GitHub link](https://github.com/Pensano-dev/website)| React, CSS, HTML|
-| [**Makers BnB web app**](https://github.com/junocchi/Makers-BnB)| As an Airbnb clone, with Cloud BnB you can register, log in, list your properties for rent, browse the listed properties, view the availability of properties, and submit booking requests.| Ruby, Active Record, Sinatra and RSpec| 
-| [**Bowling Scorecard app**](https://github.com/junocchi/W5-bowling-scorecard-ruby)| Count and sum the scores of a bowling game for one player, including strikes and spares | Ruby, RSpec|
-| [**Bank Account app**](https://github.com/junocchi/bank_account_tech_test) | A bank account program that accepts deposits, withdraws and prints statements including the transaction date, type, amount and balance. | Ruby, RSpec |
 
 ## ⚙️ Tech Skills
-- OOP, TDD, Agile and Pair Programming
-- CSS3, HTML5, Java, JavaScript, Jest, JSON, JUnit, Maven, React, RESTful APIs, Ruby, Spring Boot, SQL, VCS (Git and GitHub)
-- Have been exposed to C#, Cypress, Expo Go, ExpressJS, Figma, MongoDB, NodeJS, and React Native
+- Agile and Pair Programming
+- Node.js, TypeScript, JavaScript, Jest, React, CSS3, HTML5, Tailwind, RESTful APIs, PostgreSQL, Prisma (database library), VCS (Git and GitHub), TablePlus, and Lokalise
+- Have been exposed to MySQL, Docker, DataDog, Forest, and Zod 
 
 ## 👩🏻‍💼 Work Experience
 #### Junior Full-Stack Software Developer - One-year contract (Oct 2023 - October 2024)
 **[Spendesk](https://www.spendesk.com/en/)** - Spend Management Software, London - UK 
-• Worked on the HR Integrations project (Ecosystem Integrations Squad), which automates onboarding and offboarding, pulling the data from 40+ HR tools into Spendesk so that the Finance team doesn’t need to add, edit, or remove users manually https://www.spendesk.com/en/blog/hr-integration/  
-• Was part of the DEIA taskforce
-• Tech stack: TypeScript, JavaScript, React, CSS3, GitHub, HTML5, Jest, MySQL, Docker, PostgreSQL, TablePlus, DataDog, and Forest
+- Worked on the HR Integrations project (Ecosystem Integrations Squad), which automates onboarding and offboarding, pulling the data from 40+ HR tools into Spendesk so that the Finance team doesn’t need to add, edit, or remove users manually https://www.spendesk.com/en/blog/hr-integration/  
+- Was part of the DEIA taskforce
+- Tech stack: TypeScript, JavaScript, React, CSS3, GitHub, HTML5, Jest, MySQL, Docker, PostgreSQL, TablePlus, DataDog, and Forest
 
 #### Full-Stack Software Engineer Trainee
 **[Wiley Edge](https://www.wiley.com/edge/)**, London - UK (04-07/2023)
